@@ -15,12 +15,12 @@
 
     <name>GxM Parent POM file For All GXM Server REST Maven Projects</name>
 	
-    <dependancies>
-        <dependancy>
+    <dependencies>
+        <dependency>
             groupId>com.rick</groupId>
             <artifactId>gxm.server.textlookup.api</artifactId>
             <version>1.0.0-SNAPSHOT</version>
-        </dependancy>
-    </dependancies>
+        </dependency>
+    </dependencies>
 	
 </project>
